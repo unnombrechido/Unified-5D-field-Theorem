@@ -34,14 +34,27 @@ $$
 \square_5 \Phi + \frac{dV}{d\Phi} = 0
 $$
 
-- **Bubble Solutions**: Static solitons: $$\Phi(y) = \sqrt{\frac{2m^2}{\lambda}} \tanh\left( \frac{m y}{\sqrt{2}} \right)$$, projecting to 4D particles. Shadow size $$S = \sqrt{R^2 - \phi^2} \cdot \lambda$$, stable for $$R > \phi$$. This challenges proton mass measurements as field energy, not quark sums.
+- **Bubble Solutions**: Static solitons:
+  $$\Phi(y) = \sqrt{\frac{2m^2}{\lambda}} \tanh\left( \frac{m y}{\sqrt{2}} \right)$$
+  
+  ![Shadow Size vs 5D Radius](shadow_size.png)
+
+  projecting to 4D particles. Shadow size $$S = \sqrt{R^2 - \phi^2} \cdot \lambda$$, stable for $$R > \phi$$. This challenges proton mass measurements as field energy, not quark sums.
 
 - **Decay Dynamics**: Perturbation $$\gamma \Phi$$ causes reconfiguration: Simulated as field spreading, predicting lifetime $$\tau \approx 1/\gamma$$ (matching 880 s for neutrons via 5D tuning). Challenges weak force as misinterpreted field instability.
 
-- **Gravity Generation**: Metric induction: $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}(\Phi)$$, with $$h_{\mu\nu} \propto \partial_\mu \Phi \partial_\nu \Phi / M_{Pl}^2$$, where phase $$\phi$$ transposes as $$\sin(\theta_y)$$. Challenges GR singularities as 4D artifacts of finite 5D equilibria.
+![Bubble Energy Decay](bubble_decay.png)
+
+- **Gravity Generation**: Metric induction: $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}(\Phi)$$, with $$h_{\mu\nu} \propto \partial_\mu \Phi \partial_\nu \Phi / M_{Pl}^2$$,
+
+![Gravity Effect vs 5D Phase Twist](phase_gravity.png)
+
+where phase $$\phi$$ transposes as $$\sin(\theta_y)$$. Challenges GR singularities as 4D artifacts of finite 5D equilibria.
 
 Graphically, 5D singularity resolution (finite density projection):  
+
 ![5D Singularity Resolution](simulated_5d_density.png)  
+
 (4D density vs. position: Finite peak, challenging infinite curvature as projection error.)
 
 Philosophically, this theorem asserts that "what can be seen" (particles, gravity) emerges from "what cannot be seen" (5D entities), challenging materialist interpretations by positing higher-dimensional reality as the true foundation.
