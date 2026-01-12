@@ -51,11 +51,11 @@ $$
 
 where phase $$\phi$$ transposes as $$\sin(\theta_y)$$. Challenges GR singularities as 4D artifacts of finite 5D equilibria.
 
-- **Time as Uniform in 5D**: Time dilation is a 4D illusion from phase twists; in 5D, time passage is constant. Effective 4D dt = dt_{5D} / \sin(\theta_y), deriving relativity as projection bias.
+- **Time as Uniform in 5D**: Time dilation is a 4D illusion from phase twists; in 5D, time passage is constant. Effective 4D $$dt = dt_{5D} / \sin(\theta_y)$$, deriving relativity as projection bias.
 
-- **Randomness as 4D Illusion**: True randomness does not exist; it is a measure of 5D predictable patterns, biased like a loaded coin (e.g., outcome = sign(\sin(\theta_y))). 4D uncertainty ($$\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$$) limits access to 5D phase.
+- **Randomness as 4D Illusion**: True randomness does not exist; it is a measure of 5D predictable patterns, biased like a loaded coin (e.g., $$outcome = sign(\sin(\theta_y)))$$. 4D uncertainty ($$\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$$) limits access to 5D phase.
 
-- **Timeless Photons**: Photons tap 5D with constant phase \sin(\theta_y) = 1, deriving zero time passage in 5D while 4D sees dilation.
+- **Timeless Photons**: Photons tap 5D with constant phase $$\sin(\theta_y) = 1$$, deriving zero time passage in 5D while 4D sees dilation.
 
 Graphically, 5D singularity resolution (finite density projection):  
 
