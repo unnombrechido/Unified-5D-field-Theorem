@@ -39,7 +39,7 @@ $$
 - **Gravity Generation**: Metric induction: $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}(\Phi)$$, with $$h_{\mu\nu} \propto \partial_\mu \Phi \partial_\nu \Phi / M_{Pl}^2$$, where phase $$\phi$$ transposes as $$\sin(\theta_y)$$. Singularities are 4D artifacts of finite 5D equilibria.
 
 Graphically, 5D singularity resolution (finite density projection):  
-![5D Singularity Resolution](simulated_5d_density.png)  
+![5D Singularity Resolution](../simulated_5d_density.png)  
 (4D density vs. position: Finite peak, deriving infinite curvature as projection artifact.)
 
 Philosophically, the law establishes that "what can be seen" (particles, gravity) emerges from "what cannot be seen" (5D entities), providing the true foundation for materialist interpretations.
