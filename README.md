@@ -1,8 +1,9 @@
-# Unified-5D-field-Theorem
-An iteresting take into the universe and it’s elemental fundation
+# Unified-5D-Field-Theorem
 
-I am, by no means, a physicist nor a higly inteligent person. At best I am someon with a high sense of curiosity, please take this informationa at source value. nothing here has been tested or proven other tan for mathematical fitness.
+An intriguing take on the universe and its elemental foundations.
 
-It could give birth to real discussions as well as just feed sci-fi enthisiasm.
+As an independent researcher driven by curiosity, I've developed this theorem as a speculative exploration of physics. Please take this information at face value—nothing here has been empirically tested or proven beyond mathematical consistency.
 
-Thanks for stopping by and any contribution is welcomed
+It could spark meaningful discussions or inspire sci-fi concepts.
+
+Thanks for stopping by—any feedback or contributions are welcome!
