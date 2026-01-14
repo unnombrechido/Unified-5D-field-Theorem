@@ -12,41 +12,31 @@ Atomic spectra consist of sharp lines at precise wavelengths, reflecting discret
 ## Mathematical Derivation
 
 The Unified 5D Field Theorem uses the field equation:
-$$
-\square_5 \Phi + \frac{dV}{d\Phi} = 0
-$$
+$$\square_5 \Phi + \frac{dV}{d\Phi} = 0$$
 with projection to 4D: $$\phi(x^\mu) = \int dy \, e^{i k y / R} \Phi(x^\mu, y)$$.
 
-The phase twist θ_y modulates transitions: θ_y = arcsin(β ΔE / (R p_y)), where:
+The phase twist θ_y modulates transitions: $$θ_y = arcsin(β ΔE / (R p_y))$$, where:
 - ΔE = energy difference between levels (eV or J)
 - β = universal scaling constant (derived from calibration)
 - R = 5D compact radius
 - p_y = 5D momentum scale
 
 Wavelength:
-$$
-\lambda = \frac{h c}{\Delta E} = \frac{h c}{(\theta_y / \beta) (R p_y)}
-$$
+$$\lambda = \frac{h c}{\Delta E} = \frac{h c}{(\theta_y / \beta) (R p_y)}$$
 
 Calibration constant K = h R / p_y:
-$$
-\lambda = \frac{K}{\sin(\theta_y)}
-$$
+$$\lambda = \frac{K}{\sin(\theta_y)}$$
 
 For small θ_y (arcsin ≈ argument):
-$$
-\theta_y \approx \beta \Delta E
-$$
-$$
-\lambda \approx \frac{K}{\beta \Delta E}
-$$
+$$\theta_y \approx \beta \Delta E$$
+$$\lambda \approx \frac{K}{\beta \Delta E}$$
 
 β calibrated from a reference transition (e.g., Hydrogen H-alpha).
 
 ## Calibration and Predictions
 
 Calibrate using Hydrogen H-alpha (λ = 656.281 nm, ΔE = 1.889 eV):  
-Assume β ≈ 0.000529 eV^{-1} (fitted from Balmer series average).  
+Assume $$β ≈ 0.000529 eV^{-1}$$ (fitted from Balmer series average).  
 K ≈ 0.656 (toy units from prior calibration).
 
 Predictions (using real ΔE for each transition):
