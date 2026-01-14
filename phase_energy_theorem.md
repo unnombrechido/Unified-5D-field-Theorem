@@ -59,7 +59,7 @@ Predictions (using real ΔE for each transition):
 Deviations <0.05%—predictions match real wavelengths within measurement precision.
 
 Graphically, real vs. predicted λ (points near y=x line, showing excellent fit):  
-![Real vs Predicted Wavelength](real_vs_predicted.png)
+![Real vs Predicted Wavelength](real_vs_predicted_wavelengths.png)
 
 ## Conclusion
 
