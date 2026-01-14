@@ -25,6 +25,7 @@ Wavelength:
 $$\lambda = \frac{h c}{\Delta E} = \frac{h c}{(\theta_y / \beta) (R p_y)}$$
 
 Calibration constant $$K = h R / p_y$$:
+
 $$\lambda = \frac{K}{\sin(\theta_y)}$$
 
 For small $$θ_y$$ (arcsin ≈ argument):
